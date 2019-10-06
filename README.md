@@ -8,7 +8,7 @@
 </ol>
 <br/>
 <br/>
-<h2>Pertanyaan dan jawaban</h2>
+<h2>Usage and installation</h2>
 </center>
 
 <ol>
